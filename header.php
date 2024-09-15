@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Elijah A. Tucker</title>
 		<link rel="stylesheet" type="text/css" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="https://kit.fontawesome.com/8271703bdb.js" crossorigin="anonymous"></script>
 	</head>
 	<body>
     <header class="w3-container w3-indigo">
